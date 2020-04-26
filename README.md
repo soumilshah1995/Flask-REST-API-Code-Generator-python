@@ -1,6 +1,9 @@
 
 # Flask REST API Code Generator Project | Generate API code Automatically
 
+* please note this is a ongoing project but this is initial code you an say phase 1
+
+
 <img width="766" alt="Screen Shot 2020-04-26 at 12 59 20 PM" src="https://user-images.githubusercontent.com/39345855/80314147-c01e4780-87bd-11ea-88ed-2bbb798c6d8c.png">
 
 
