@@ -22,6 +22,12 @@ try:
     from flask import request
 except Exception as e:
     print("Some Modules are Missing  ")
+    
+    
+app = Flask(__name__)
+api = Api(app)
+
+
 """
         self.code += self.imports
 
