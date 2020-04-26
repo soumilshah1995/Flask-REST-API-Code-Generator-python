@@ -1,2 +1,13 @@
-# Flask-REST-API-Code-Generator-python
-Generate API code for REST API in seconds with this python script 
+
+# Flask REST API Code Generator Project | Generate API code Automatically
+
+<img width="766" alt="Screen Shot 2020-04-26 at 12 59 20 PM" src="https://user-images.githubusercontent.com/39345855/80314147-c01e4780-87bd-11ea-88ed-2bbb798c6d8c.png">
+
+
+### Follow the steps on Screen 
+<img width="481" alt="Screen Shot 2020-04-26 at 12 59 57 PM" src="https://user-images.githubusercontent.com/39345855/80314165-d75d3500-87bd-11ea-89a3-3b8588223fae.png">
+
+
+
+
+
